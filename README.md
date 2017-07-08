@@ -21,7 +21,7 @@ Now download vector tiles from [OpenMapTiles](https://openmaptiles.org/downloads
 curl -o zurich_switzerland.mbtiles https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/zurich_switzerland.mbtiles
 ```
 
-Start `tileserver-gl` with the downloaded vector tiles.
+Start `tileserver-gl` with the downloaded vector tiles and all done.
 
 ```bash
 tileserver-gl zurich_switzerland.mbtiles
